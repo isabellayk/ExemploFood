@@ -3,7 +3,7 @@ import Pedido from './components/Pedido'
 const App = () => {
   return (
     <>
-
+      <link rel="stylesheet" href="../css/estilo.css" />
     <Pedido />
 
 
@@ -12,3 +12,5 @@ const App = () => {
 }
 
 export default App
+
+
